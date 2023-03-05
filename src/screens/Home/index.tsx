@@ -1,6 +1,5 @@
-import {Button} from 'react-native';
 import React, {useCallback, useEffect, useState} from 'react';
-import {Container} from './styles';
+import {Container, Button} from './styles';
 import Header from '../../components/Header';
 
 export function Home() {

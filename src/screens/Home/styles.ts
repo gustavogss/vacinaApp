@@ -1,20 +1,13 @@
 import styled from 'styled-components/native';
 
 export const Container = styled.View`
-  flex-direction: 'row';
-  margin-right: 5;
+  flex: 1;
 `;
 
-export const Titulo = styled.Text`
-  color: '#eee';
-  font-size: 20;
-  font-weight: 'normal';
-  margin: 8;
-`;
-
-export const User = styled.Text`
-  color: '#ccc';
-  font-size: 20;
-  font-weight: 'bold';
-  margin-left: 5;
+export const Button = styled.Button`
+  width: '80%';
+  background-color: '#0F0';
+  border-radius: 5;
+  padding: 10;
+  margin-top: 5;
 `;

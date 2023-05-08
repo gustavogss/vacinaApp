@@ -1,7 +1,7 @@
 <p align="center">
 <img
-width='400px'
-src='https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png',
+width='200px'
+src='https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png'
 alt='react logo'
 />
 </p>
